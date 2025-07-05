@@ -10,6 +10,9 @@ using namespace std;
 void adminLogin(class Admin& admin);
 void customerMenu(class Admin& admin);
 
+
+
+
 // Base class Vehicle
 class Vehicle {
 protected:
